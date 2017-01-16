@@ -1,0 +1,14 @@
+{
+  "name": "vitermer",
+  "version": "1.0.0",
+  "description": "Visual Terminal Web Browser",
+  "main": "index.js",
+  "author": "pom",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "image-to-ascii": "^3.0.5",
+    "pageres": "^4.3.0"
+  }
+}
